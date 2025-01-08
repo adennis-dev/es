@@ -4,6 +4,8 @@
 
 ### Pre-Screening
 
+Quick assessment of project risk profile and red flags review
+
 ### Screening
 
 **Step 1: Conduct E&S Risk Screening**
@@ -12,6 +14,7 @@
 - Contextual Risk
 - Project Design Risk
 - Sponsor Reputational Risk
+- Red Flags
 
 **Step 2: Prepare Screening Statement for Deal Team**
 
@@ -23,4 +26,15 @@
 
 - Project Summary Statement
 - Summary of Key Risks
-  
+
+### Project Preparation / Request for Clearance
+
+- Finalized Risk Categorization
+- Determination of Applicable Standards
+- Compilation of E&S Documentation
+
+### Clearance
+
+### Post-Clearance Negotiation of Terms
+
+
