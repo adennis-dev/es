@@ -37,11 +37,11 @@ Quick assessment of project risk profile and red flags review
 
 Contextual Screenings
   * Gender Risk assssment
-  - [GBVH Clearance Language .docx](https://dfcgov.sharepoint.com/sites/ENVandSOCJOINTResources/Shared%20Documents/E%26S%20Policies%20and%20Procedures/07.%20GBVH%20%26%20Gender%20Risk/DFC%20GBVH%20Tools/GBVH%20Clearance%20Language%20.docx)
-  - [GBVH Due Diligence Questions.docx](https://dfcgov.sharepoint.com/sites/ENVandSOCJOINTResources/Shared%20Documents/E%26S%20Policies%20and%20Procedures/07.%20GBVH%20%26%20Gender%20Risk/DFC%20GBVH%20Tools/GBVH%20Due%20Diligence%20Questions.docx)
-  - [GBVH Mitigation Measures .docx](https://dfcgov.sharepoint.com/sites/ENVandSOCJOINTResources/Shared%20Documents/E%26S%20Policies%20and%20Procedures/07.%20GBVH%20%26%20Gender%20Risk/DFC%20GBVH%20Tools/GBVH%20Mitigation%20Measures%20.docx)
-  - [GBVH Risk Screening Tool v.3.xlsx](https://dfcgov.sharepoint.com/sites/ENVandSOCJOINTResources/Shared%20Documents/E%26S%20Policies%20and%20Procedures/07.%20GBVH%20%26%20Gender%20Risk/DFC%20GBVH%20Tools/GBVH%20Risk%20Screening%20Tool%20v.3.xlsx)
-  - [Gender and GBV Monitoring.docx](https://dfcgov.sharepoint.com/sites/ENVandSOCJOINTResources/Shared%20Documents/E%26S%20Policies%20and%20Procedures/07.%20GBVH%20%26%20Gender%20Risk/DFC%20GBVH%20Tools/Gender%20and%20GBV%20Monitoring.docx)
+    - [GBVH Clearance Language .docx](https://dfcgov.sharepoint.com/sites/ENVandSOCJOINTResources/Shared%20Documents/E%26S%20Policies%20and%20Procedures/07.%20GBVH%20%26%20Gender%20Risk/DFC%20GBVH%20Tools/GBVH%20Clearance%20Language%20.docx)
+    - [GBVH Due Diligence Questions.docx](https://dfcgov.sharepoint.com/sites/ENVandSOCJOINTResources/Shared%20Documents/E%26S%20Policies%20and%20Procedures/07.%20GBVH%20%26%20Gender%20Risk/DFC%20GBVH%20Tools/GBVH%20Due%20Diligence%20Questions.docx)
+    - [GBVH Mitigation Measures .docx](https://dfcgov.sharepoint.com/sites/ENVandSOCJOINTResources/Shared%20Documents/E%26S%20Policies%20and%20Procedures/07.%20GBVH%20%26%20Gender%20Risk/DFC%20GBVH%20Tools/GBVH%20Mitigation%20Measures%20.docx)
+    - [GBVH Risk Screening Tool v.3.xlsx](https://dfcgov.sharepoint.com/sites/ENVandSOCJOINTResources/Shared%20Documents/E%26S%20Policies%20and%20Procedures/07.%20GBVH%20%26%20Gender%20Risk/DFC%20GBVH%20Tools/GBVH%20Risk%20Screening%20Tool%20v.3.xlsx)
+    - [Gender and GBV Monitoring.docx](https://dfcgov.sharepoint.com/sites/ENVandSOCJOINTResources/Shared%20Documents/E%26S%20Policies%20and%20Procedures/07.%20GBVH%20%26%20Gender%20Risk/DFC%20GBVH%20Tools/Gender%20and%20GBV%20Monitoring.docx)
 
 ### Post-Clearance Negotiation of Terms
 
